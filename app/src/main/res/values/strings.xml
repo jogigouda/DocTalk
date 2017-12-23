@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DocTalk</string>
+    <string name="noUser">No User found</string>
+    <string name="checkNetwork">Please check network connection</string>
+    <string name="tryLater">Please try later</string>
+    <string name="search_go">Search here</string>
+</resources>
